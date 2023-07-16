@@ -1,4 +1,4 @@
-public class frast2 {
+public class Variable {
     public static void main(String args[])
     {
 
